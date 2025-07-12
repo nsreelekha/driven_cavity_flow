@@ -98,9 +98,7 @@ f \\ \frac{∂f}{∂x} \\ \frac{∂f}{∂y} \\ \frac{∂²f}{∂x²} \\ \frac{�
 ```
 
 ### Weights (Gaussian Kernel)
-$$
-w_i = \exp\left(-6.25 \frac{\|\vec{x}_i - \vec{x}\|^2}{h^2}\right)
-$$
+w<sub>i</sub> = exp(−6.25 · ‖x<sub>i</sub> − x‖<sup>2</sup> / h<sup>2</sup>)
 ---
 ## ⚙️ 4. Solver Algorithm (Chorin Projection)
 
