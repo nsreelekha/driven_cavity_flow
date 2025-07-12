@@ -65,9 +65,7 @@ $$
 $$
 
 ### 2.4 Velocity Projection
-$$
-\vec{v}^{n+1} = \vec{v}^* - \Delta t \nabla p^{n+1}
-$$
+→ **vⁿ⁺¹ = v* − Δt ∇pⁿ⁺¹**
 ---
 
 ## 🔧 3. Simulation Parameters
